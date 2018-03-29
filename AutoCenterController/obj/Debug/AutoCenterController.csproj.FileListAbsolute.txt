@@ -1,0 +1,15 @@
+E:\Универ\4 СЕМЕСТР\Программирование\Курсовая\Client_App\CourceAdmin\AutoCenterAdmin\AutoCenterController\bin\Debug\AutoCenterController.dll
+E:\Универ\4 СЕМЕСТР\Программирование\Курсовая\Client_App\CourceAdmin\AutoCenterAdmin\AutoCenterController\bin\Debug\AutoCenterController.pdb
+E:\Универ\4 СЕМЕСТР\Программирование\Курсовая\Client_App\CourceAdmin\AutoCenterAdmin\AutoCenterController\obj\Debug\AutoCenterController.csprojResolveAssemblyReference.cache
+E:\Универ\4 СЕМЕСТР\Программирование\Курсовая\Client_App\CourceAdmin\AutoCenterAdmin\AutoCenterController\obj\Debug\AutoCenterController.csproj.CoreCompileInputs.cache
+E:\Универ\4 СЕМЕСТР\Программирование\Курсовая\Client_App\CourceAdmin\AutoCenterAdmin\AutoCenterController\obj\Debug\AutoCenterController.dll
+E:\Универ\4 СЕМЕСТР\Программирование\Курсовая\Client_App\CourceAdmin\AutoCenterAdmin\AutoCenterController\obj\Debug\AutoCenterController.pdb
+E:\Универ\4 СЕМЕСТР\Программирование\Курсовая\Client_App\CourceAdmin\AutoCenterAdmin\AutoCenterController\bin\Debug\Database.mdf
+E:\Универ\4 СЕМЕСТР\Программирование\Курсовая\Client_App\CourceAdmin\AutoCenterAdmin\AutoCenterController\bin\Debug\Database_log.ldf
+E:\Универ\4 СЕМЕСТР\Программирование\Курсовая\Client_App\CourceAdmin\AutoCenterAdmin\AutoCenterController\bin\Debug\AutoCenterAdmin.dll
+E:\Универ\4 СЕМЕСТР\Программирование\Курсовая\Client_App\CourceAdmin\AutoCenterAdmin\AutoCenterController\bin\Debug\EntityFramework.dll
+E:\Универ\4 СЕМЕСТР\Программирование\Курсовая\Client_App\CourceAdmin\AutoCenterAdmin\AutoCenterController\bin\Debug\AutoCenterAdmin.pdb
+E:\Универ\4 СЕМЕСТР\Программирование\Курсовая\Client_App\CourceAdmin\AutoCenterAdmin\AutoCenterController\bin\Debug\AutoCenterAdmin.dll.config
+E:\Универ\4 СЕМЕСТР\Программирование\Курсовая\Client_App\CourceAdmin\AutoCenterAdmin\AutoCenterController\bin\Debug\EntityFramework.xml
+E:\Универ\4 СЕМЕСТР\Программирование\Курсовая\Client_App\CourceAdmin\AutoCenterAdmin\AutoCenterController\bin\Debug\ru\EntityFramework.resources.dll
+E:\Универ\4 СЕМЕСТР\Программирование\Курсовая\Client_App\CourceAdmin\AutoCenterAdmin\AutoCenterController\obj\Debug\AutoCenterController.csproj.CopyComplete

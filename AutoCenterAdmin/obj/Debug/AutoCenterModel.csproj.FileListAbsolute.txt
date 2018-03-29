@@ -1,0 +1,15 @@
+E:\Универ\4 СЕМЕСТР\Программирование\Курсовая\Client_App\CourceAdmin\AutoCenterAdmin\AutoCenterAdmin\bin\Debug\AutoCenterAdmin.dll
+E:\Универ\4 СЕМЕСТР\Программирование\Курсовая\Client_App\CourceAdmin\AutoCenterAdmin\AutoCenterAdmin\bin\Debug\AutoCenterAdmin.pdb
+E:\Универ\4 СЕМЕСТР\Программирование\Курсовая\Client_App\CourceAdmin\AutoCenterAdmin\AutoCenterAdmin\obj\Debug\AutoCenterModel.csproj.CoreCompileInputs.cache
+E:\Универ\4 СЕМЕСТР\Программирование\Курсовая\Client_App\CourceAdmin\AutoCenterAdmin\AutoCenterAdmin\obj\Debug\AutoCenterAdmin.dll
+E:\Универ\4 СЕМЕСТР\Программирование\Курсовая\Client_App\CourceAdmin\AutoCenterAdmin\AutoCenterAdmin\obj\Debug\AutoCenterAdmin.pdb
+E:\Универ\4 СЕМЕСТР\Программирование\Курсовая\Client_App\CourceAdmin\AutoCenterAdmin\AutoCenterAdmin\bin\Debug\Database.mdf
+E:\Универ\4 СЕМЕСТР\Программирование\Курсовая\Client_App\CourceAdmin\AutoCenterAdmin\AutoCenterAdmin\bin\Debug\Database_log.ldf
+E:\Универ\4 СЕМЕСТР\Программирование\Курсовая\Client_App\CourceAdmin\AutoCenterAdmin\AutoCenterAdmin\bin\Debug\AutoCenterAdmin.dll.config
+E:\Универ\4 СЕМЕСТР\Программирование\Курсовая\Client_App\CourceAdmin\AutoCenterAdmin\AutoCenterAdmin\bin\Debug\EntityFramework.dll
+E:\Универ\4 СЕМЕСТР\Программирование\Курсовая\Client_App\CourceAdmin\AutoCenterAdmin\AutoCenterAdmin\bin\Debug\EntityFramework.SqlServer.dll
+E:\Универ\4 СЕМЕСТР\Программирование\Курсовая\Client_App\CourceAdmin\AutoCenterAdmin\AutoCenterAdmin\bin\Debug\EntityFramework.xml
+E:\Универ\4 СЕМЕСТР\Программирование\Курсовая\Client_App\CourceAdmin\AutoCenterAdmin\AutoCenterAdmin\bin\Debug\EntityFramework.SqlServer.xml
+E:\Универ\4 СЕМЕСТР\Программирование\Курсовая\Client_App\CourceAdmin\AutoCenterAdmin\AutoCenterAdmin\bin\Debug\ru\EntityFramework.resources.dll
+E:\Универ\4 СЕМЕСТР\Программирование\Курсовая\Client_App\CourceAdmin\AutoCenterAdmin\AutoCenterAdmin\obj\Debug\AutoCenterModel.csprojResolveAssemblyReference.cache
+E:\Универ\4 СЕМЕСТР\Программирование\Курсовая\Client_App\CourceAdmin\AutoCenterAdmin\AutoCenterAdmin\obj\Debug\AutoCenterModel.csproj.CopyComplete
